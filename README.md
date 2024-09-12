@@ -13,5 +13,5 @@ This is a versatile Discord bot built using Discord.js. It includes various func
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Devilpermeet/All-in-one.git
    cd your-repository
