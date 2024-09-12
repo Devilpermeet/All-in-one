@@ -15,3 +15,8 @@ This is a versatile Discord bot built using Discord.js. It includes various func
    ```sh
    git clone https://github.com/Devilpermeet/All-in-one.git
    cd your-repository
+
+2. **Install dependencies**
+   ```sh
+   Install the required packages using npm:
+   npm install
