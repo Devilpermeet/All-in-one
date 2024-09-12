@@ -1,0 +1,21 @@
+├── index.js
+├── config.json
+├── commands
+│   ├── kick.js
+│   ├── ban.js
+│   ├── role.js
+│   ├── play.js
+│   ├── nsfw.js
+│   ├── help.js
+│   ├── ping.js
+│   ├── about.js
+│   └── noPrefixCommands.js
+├── events
+│   ├── messageCreate.js
+│   └── guildMemberAdd.js
+├── utils
+│   ├── forbiddenWords.js
+│   └── nsfwAPI.js
+├── README.md
+├── LICENSE
+└── package.json
