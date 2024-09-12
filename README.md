@@ -18,5 +18,4 @@ This is a versatile Discord bot built using Discord.js. It includes various func
 
 2. **Install dependencies**
    ```sh
-   Install the required packages using npm:
    npm install
