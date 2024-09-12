@@ -1,0 +1,17 @@
+{
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "description": "A versatile Discord bot built with Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "@discordjs/voice": "^0.14.0",
+    "ytdl-core": "^4.9.1",
+    "axios": "^1.3.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
