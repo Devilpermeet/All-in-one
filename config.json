@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "!",
+    "ownerId": "YOUR_DISCORD_USER_ID",
+    "adminRoleId": "YOUR_ADMIN_ROLE_ID"
+}
